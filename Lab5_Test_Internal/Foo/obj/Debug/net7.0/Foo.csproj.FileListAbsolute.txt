@@ -1,0 +1,15 @@
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\bin\Debug\net7.0\Foo.exe
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\bin\Debug\net7.0\Foo.deps.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\bin\Debug\net7.0\Foo.runtimeconfig.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\bin\Debug\net7.0\Foo.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\bin\Debug\net7.0\Foo.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\Foo.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\Foo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\Foo.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\Foo.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\Foo.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\Foo.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\refint\Foo.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\Foo.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\Foo.genruntimeconfig.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab5\Foo\obj\Debug\net7.0\ref\Foo.dll
