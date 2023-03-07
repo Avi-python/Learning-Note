@@ -15,6 +15,8 @@ namespace MainSpace
             name = _name;
             size = _size;
             isIron = _isIron;
+            hi;
+            
         } 
 
         
