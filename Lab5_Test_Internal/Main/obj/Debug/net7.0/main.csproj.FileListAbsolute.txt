@@ -1,0 +1,15 @@
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\main.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\main.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\main.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\main.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\main.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\bin\Debug\net7.0\main.exe
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\bin\Debug\net7.0\main.deps.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\bin\Debug\net7.0\main.runtimeconfig.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\bin\Debug\net7.0\main.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\bin\Debug\net7.0\main.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\main.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\refint\main.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\main.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\main.genruntimeconfig.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab5_Test_Internal\Main\obj\Debug\net7.0\ref\main.dll
