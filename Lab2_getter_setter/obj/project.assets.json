@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Uni_programming\\Uni_CSharp\\Lab\\Lab2\\Lab2.csproj",
+      "projectUniqueName": "D:\\Uni_programming\\Uni_CSharp\\Lab\\Lab2_getter_setter\\Lab2.csproj",
       "projectName": "Lab2",
-      "projectPath": "D:\\Uni_programming\\Uni_CSharp\\Lab\\Lab2\\Lab2.csproj",
+      "projectPath": "D:\\Uni_programming\\Uni_CSharp\\Lab\\Lab2_getter_setter\\Lab2.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "D:\\Uni_programming\\Uni_CSharp\\Lab\\Lab2\\obj\\",
+      "outputPath": "D:\\Uni_programming\\Uni_CSharp\\Lab\\Lab2_getter_setter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
