@@ -3,3 +3,13 @@ D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\obj\Debug\net7.0\Lab4_delegate.G
 D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\obj\Debug\net7.0\Lab4_delegate.AssemblyInfoInputs.cache
 D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\obj\Debug\net7.0\Lab4_delegate.AssemblyInfo.cs
 D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\obj\Debug\net7.0\Lab4_delegate.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\bin\Debug\net7.0\Lab4_delegate.exe
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\bin\Debug\net7.0\Lab4_delegate.deps.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\bin\Debug\net7.0\Lab4_delegate.runtimeconfig.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\bin\Debug\net7.0\Lab4_delegate.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\bin\Debug\net7.0\Lab4_delegate.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\obj\Debug\net7.0\Lab4_delegate.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\obj\Debug\net7.0\refint\Lab4_delegate.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\obj\Debug\net7.0\Lab4_delegate.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\obj\Debug\net7.0\Lab4_delegate.genruntimeconfig.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab4_delegate\obj\Debug\net7.0\ref\Lab4_delegate.dll
