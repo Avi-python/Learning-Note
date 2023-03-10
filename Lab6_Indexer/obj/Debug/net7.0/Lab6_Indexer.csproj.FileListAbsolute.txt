@@ -1,0 +1,15 @@
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\Lab6_Indexer.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\Lab6_Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\Lab6_Indexer.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\Lab6_Indexer.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\Lab6_Indexer.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\bin\Debug\net7.0\Lab6_Indexer.exe
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\bin\Debug\net7.0\Lab6_Indexer.deps.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\bin\Debug\net7.0\Lab6_Indexer.runtimeconfig.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\bin\Debug\net7.0\Lab6_Indexer.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\bin\Debug\net7.0\Lab6_Indexer.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\Lab6_Indexer.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\refint\Lab6_Indexer.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\Lab6_Indexer.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\Lab6_Indexer.genruntimeconfig.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab6_Indexer\obj\Debug\net7.0\ref\Lab6_Indexer.dll
