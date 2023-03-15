@@ -1,0 +1,15 @@
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\bin\Debug\net7.0\LittleHash.exe
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\bin\Debug\net7.0\LittleHash.deps.json
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\bin\Debug\net7.0\LittleHash.runtimeconfig.json
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\bin\Debug\net7.0\LittleHash.dll
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\bin\Debug\net7.0\LittleHash.pdb
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\LittleHash.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\LittleHash.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\LittleHash.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\LittleHash.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\LittleHash.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\LittleHash.dll
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\refint\LittleHash.dll
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\LittleHash.pdb
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\LittleHash.genruntimeconfig.cache
+D:\Uni_programming\Uni_CSharp\Lab\LittleHash\obj\Debug\net7.0\ref\LittleHash.dll

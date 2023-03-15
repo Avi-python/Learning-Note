@@ -1,0 +1,15 @@
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\bin\Debug\net7.0\Lab7_OperatorOverloading.exe
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\bin\Debug\net7.0\Lab7_OperatorOverloading.deps.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\bin\Debug\net7.0\Lab7_OperatorOverloading.runtimeconfig.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\bin\Debug\net7.0\Lab7_OperatorOverloading.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\bin\Debug\net7.0\Lab7_OperatorOverloading.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\Lab7_OperatorOverloading.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\Lab7_OperatorOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\Lab7_OperatorOverloading.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\Lab7_OperatorOverloading.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\Lab7_OperatorOverloading.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\Lab7_OperatorOverloading.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\refint\Lab7_OperatorOverloading.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\Lab7_OperatorOverloading.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\Lab7_OperatorOverloading.genruntimeconfig.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab7_OperatorOverloading\obj\Debug\net7.0\ref\Lab7_OperatorOverloading.dll

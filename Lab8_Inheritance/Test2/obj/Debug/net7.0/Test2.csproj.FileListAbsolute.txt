@@ -1,0 +1,15 @@
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\bin\Debug\net7.0\Test2.exe
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\bin\Debug\net7.0\Test2.deps.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\bin\Debug\net7.0\Test2.runtimeconfig.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\bin\Debug\net7.0\Test2.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\bin\Debug\net7.0\Test2.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\Test2.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\Test2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\Test2.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\Test2.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\Test2.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\Test2.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\refint\Test2.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\Test2.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\Test2.genruntimeconfig.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test2\obj\Debug\net7.0\ref\Test2.dll
