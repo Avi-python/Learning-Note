@@ -1,0 +1,12 @@
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\bin\Debug\net7.0\MyHashLibrary.Component.deps.json
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\bin\Debug\net7.0\MyHashLibrary.Component.dll
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\bin\Debug\net7.0\MyHashLibrary.Component.pdb
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\obj\Debug\net7.0\MyHashLibrary.Component.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\obj\Debug\net7.0\MyHashLibrary.Component.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\obj\Debug\net7.0\MyHashLibrary.Component.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\obj\Debug\net7.0\MyHashLibrary.Component.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\obj\Debug\net7.0\MyHashLibrary.Component.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\obj\Debug\net7.0\MyHashLibrary.Component.dll
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\obj\Debug\net7.0\refint\MyHashLibrary.Component.dll
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\obj\Debug\net7.0\MyHashLibrary.Component.pdb
+D:\Uni_programming\Uni_CSharp\Lab\MyHashLibrary\MyHashLibrary.Component\obj\Debug\net7.0\ref\MyHashLibrary.Component.dll

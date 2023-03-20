@@ -1,0 +1,15 @@
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\Test3.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\Test3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\Test3.AssemblyInfoInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\Test3.AssemblyInfo.cs
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\Test3.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\bin\Debug\net7.0\Test3.exe
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\bin\Debug\net7.0\Test3.deps.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\bin\Debug\net7.0\Test3.runtimeconfig.json
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\bin\Debug\net7.0\Test3.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\bin\Debug\net7.0\Test3.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\Test3.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\refint\Test3.dll
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\Test3.pdb
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\Test3.genruntimeconfig.cache
+D:\Uni_programming\Uni_CSharp\Lab\Lab8_Inheritance\Test3\obj\Debug\net7.0\ref\Test3.dll

@@ -9,6 +9,8 @@ namespace MainSpace
         public string name;
         public int height;
         public bool isBoy;
+        public List<int> Plist {get; }
+        public readonly List<int> Preadonly;
 
         public Person(string _name, int _height, bool _isBoy)
         {

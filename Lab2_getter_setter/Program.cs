@@ -20,6 +20,20 @@ namespace MainSpace
             Person p3 = Person.DefaultInstance;
             p3.height = 123;
             p3.PrintPerson();
+
+            Person p4 = new Person("p4", 2, true);
+
+            // Plist is property with only getter
+            // p4.Plist = null; // Error
+            // p4.Plist.Add(3); // accept 
+
+            // Plist is field with readonly
+            // p4.Preadonly = null; // Error    
+            // p4.Preadonly.Add(2); // accept
+            Console.WriteLine((int)'c');
+            Person[] a = new Person[5];
+            Console.WriteLine(ReferenceEquals(a[0], null));
+
         }
     }
 }
